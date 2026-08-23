@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-08-23T12:31:02.355Z",
+  "problems": [
+    {
+      "frontendId": "2769",
+      "title": "Find the Maximum Achievable Number",
+      "slug": "find-the-maximum-achievable-number",
+      "problemName": "2769-find-the-maximum-achievable-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-achievable-number/",
+      "folderPath": "leetcode/2769-find-the-maximum-achievable-number/",
+      "readmePath": "leetcode/2769-find-the-maximum-achievable-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2769-find-the-maximum-achievable-number.cpp",
+          "path": "leetcode/2769-find-the-maximum-achievable-number/2769-find-the-maximum-achievable-number.cpp",
+          "sha": "af7b2ffa1b91074d260167b27f5fc0d05c213aac",
+          "lastSyncedAt": "2026-08-23T12:31:02.355Z"
+        }
+      ]
+    }
+  ]
+}
