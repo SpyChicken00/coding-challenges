@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-23T12:31:07.745Z",
+  "updatedAt": "2026-08-23T12:33:15.213Z",
   "problems": [
     {
       "frontendId": "2769",
@@ -22,7 +22,7 @@
           "filename": "2769-find-the-maximum-achievable-number.cpp",
           "path": "leetcode/2769-find-the-maximum-achievable-number/2769-find-the-maximum-achievable-number.cpp",
           "sha": "af7b2ffa1b91074d260167b27f5fc0d05c213aac",
-          "lastSyncedAt": "2026-08-23T12:31:02.355Z"
+          "lastSyncedAt": "2026-08-23T12:33:15.213Z"
         }
       ]
     },
