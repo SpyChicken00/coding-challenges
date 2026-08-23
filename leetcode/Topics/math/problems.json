@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-23T12:31:02.355Z",
+  "updatedAt": "2026-08-23T12:31:07.745Z",
   "problems": [
     {
       "frontendId": "2769",
@@ -23,6 +23,26 @@
           "path": "leetcode/2769-find-the-maximum-achievable-number/2769-find-the-maximum-achievable-number.cpp",
           "sha": "af7b2ffa1b91074d260167b27f5fc0d05c213aac",
           "lastSyncedAt": "2026-08-23T12:31:02.355Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2894",
+      "title": "Divisible and Non-divisible Sums Difference",
+      "slug": "divisible-and-non-divisible-sums-difference",
+      "problemName": "2894-divisible-and-non-divisible-sums-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/",
+      "folderPath": "leetcode/2894-divisible-and-non-divisible-sums-difference/",
+      "readmePath": "leetcode/2894-divisible-and-non-divisible-sums-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2894-divisible-and-non-divisible-sums-difference.cpp",
+          "path": "leetcode/2894-divisible-and-non-divisible-sums-difference/2894-divisible-and-non-divisible-sums-difference.cpp",
+          "sha": "b2461c1da4c1cc0db5e634bf8abfab41eee40f2b",
+          "lastSyncedAt": "2026-08-23T12:31:07.745Z"
         }
       ]
     }
