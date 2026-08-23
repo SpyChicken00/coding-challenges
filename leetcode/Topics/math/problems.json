@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-23T12:33:55.073Z",
+  "updatedAt": "2026-08-23T12:33:56.408Z",
   "problems": [
     {
       "frontendId": "2769",
@@ -42,7 +42,7 @@
           "filename": "2894-divisible-and-non-divisible-sums-difference.cpp",
           "path": "leetcode/2894-divisible-and-non-divisible-sums-difference/2894-divisible-and-non-divisible-sums-difference.cpp",
           "sha": "b2461c1da4c1cc0db5e634bf8abfab41eee40f2b",
-          "lastSyncedAt": "2026-08-23T12:33:17.551Z"
+          "lastSyncedAt": "2026-08-23T12:33:56.408Z"
         }
       ]
     }
