@@ -1,2 +1,2 @@
-# code-wars-practice
-Practice solutions to code wars problems
+#Coding Challenges
+Practice solutions to code wars and leetcode
