@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-23T12:30:54.574Z",
+  "updatedAt": "2026-08-23T12:33:12.701Z",
   "problems": [
     {
       "frontendId": "709",
@@ -22,7 +22,7 @@
           "filename": "0709-to-lower-case.js",
           "path": "leetcode/0709-to-lower-case/0709-to-lower-case.js",
           "sha": "8e9e575116e02ddd931c1a8b1467c81c8e8d257b",
-          "lastSyncedAt": "2026-08-23T12:30:54.574Z"
+          "lastSyncedAt": "2026-08-23T12:33:12.701Z"
         }
       ]
     }
