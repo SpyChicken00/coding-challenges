@@ -1,2 +1,2 @@
 # Coding Challenges
-Practice solutions to code wars and leetcode
+Practice problems and solutions to coding problems from codewars and leetcode
