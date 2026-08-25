@@ -1,7 +1,9 @@
 function booleanToString(b){
-  //cast to a string literal
-  return `${b}`
+  return b.toString();
   
-  //ternary operator return true or false string depending on value
-  //return (b === true)? "true" : "false"
+  //alternate solutions
+  
+  //return String(b)
+  //return `${b}`
+  //return b ? "true" : "false"
 }
