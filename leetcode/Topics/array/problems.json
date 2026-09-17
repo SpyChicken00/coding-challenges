@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-23T12:30:08.968Z",
-  "problems": []
+  "updatedAt": "2026-09-17T06:55:35.462Z",
+  "problems": [
+    {
+      "frontendId": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "problemName": "0118-pascals-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+      "folderPath": "leetcode/0118-pascals-triangle/",
+      "readmePath": "leetcode/0118-pascals-triangle/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0118-pascals-triangle.js",
+          "path": "leetcode/0118-pascals-triangle/0118-pascals-triangle.js",
+          "sha": "3f735943d8df836f822212847282ffb4dcedcaaf",
+          "lastSyncedAt": "2026-09-17T06:55:35.462Z"
+        }
+      ]
+    }
+  ]
 }
